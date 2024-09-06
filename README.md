@@ -1,2 +1,2 @@
 # Competitive-programing
-Dùng để lưu các bài tập competitive programing
+Use to save my problems in Competitve programing
